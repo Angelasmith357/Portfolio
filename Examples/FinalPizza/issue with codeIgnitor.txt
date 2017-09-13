@@ -1,1 +1,0 @@
-http://www.w3programmers.com/introduction-to-codeigniter-basic-with-crud/
